@@ -3,7 +3,7 @@ layout: post
 title: "ezique test"
 date: 2018-04-13 21:31:05
 description: "Detalhes fazem a diferença, vamos falar sobre Favicons, Touch Icons e Tile Icons e como eles fazem a diferença."
-main-class: 'dev'
+main-class: 'html'
 color: '#637a91'
 tags:
 - tag1
